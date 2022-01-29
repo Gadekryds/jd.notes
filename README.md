@@ -15,10 +15,9 @@ kubectl apply -f [fileName].yaml
 
 kubectl rollout restart deployment [deploymentName]
 
-kubectl get
-
-            pods
-            deployments
-            services            
+            kubectl get
+                        pods
+                        deployments
+                        services            
 
 # Dotnet commands
